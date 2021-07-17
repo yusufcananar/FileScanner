@@ -2,7 +2,7 @@
 
 Simple File Scanner application.  
 
-![File Scanner](Resources/Hnet-image.gif)
+![File Scanner](Resources/Hnet.com-image.gif)
 
 ##### You can check out the youtube video of the result on the link below:
 <a href="https://www.youtube.com/watch?v=XXEm1ZTDbOY
