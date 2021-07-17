@@ -9,7 +9,7 @@ Simple File Scanner application.
 " target="_blank"><img src="https://www.youtube.com/watch?v=XXEm1ZTDbOY/0.jpg" 
 alt="File Scanner" width="680" height="480" border="10" /></a>
 
-## Note: I have a 10+ year old webcam so the result might not be satifying. However with a high resolution camera application works great.
+## Note: I have a 10+ year old webcam so the result might not be satifying. However with a high resolution camera, application works great.
 
 # References
 [OpenCV-Python Docs](https://docs.opencv.org/4.5.2/d6/d00/tutorial_py_root.html) <Enter>   
