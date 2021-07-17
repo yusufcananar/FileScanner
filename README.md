@@ -5,9 +5,9 @@ Simple File Scanner application.
 ![File Scanner](Resources/Hnet.com-image.gif)
 
 ##### You can check out the youtube video of the result on the link below:
-<a href="https://www.youtube.com/watch?v=XXEm1ZTDbOY
-" target="_blank"><img src="https://www.youtube.com/watch?v=XXEm1ZTDbOY/0.jpg" 
-alt="File Scanner" width="680" height="480" border="10" /></a>
+<a href="https://www.youtube.com/watch?v=QdbKQNfoy_Y
+" target="_blank"><img src="https://www.youtube.com/watch?v=QdbKQNfoy_Y/0.jpg" 
+alt="File Scanner" width="640" height="480" border="10" /></a>
 
 ## Note: I have a 10+ year old webcam so the result might not be satifying. However with a high resolution camera, application works great.
 
